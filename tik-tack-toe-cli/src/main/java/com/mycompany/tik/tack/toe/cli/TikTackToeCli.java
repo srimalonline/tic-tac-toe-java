@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.tik.tack.toe.cli;
 import java.util.Scanner;
-/**
- *
- * @author Srimal
- */
+
+
 public class TikTackToeCli {
     private static char[][] board = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
     private static char currentPlayer = 'X';
