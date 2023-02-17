@@ -16,9 +16,9 @@ public class MainProgram {
             System.out.println("-------------");
             System.out.println("Current player: " + game.getCurrentPlayer());
             System.out.print("Enter row: ");
-            int row = scanner.nextInt();
+            int row = scanner.nextInt() -1;
             System.out.print("Enter column: ");
-            int col = scanner.nextInt();
+            int col = scanner.nextInt() -1;
             if (!game.makeMove(row, col)) {
                 System.out.println("Invalid move, try again!");
             }
