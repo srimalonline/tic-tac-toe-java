@@ -37,7 +37,7 @@ public class Settings extends javax.swing.JFrame {
 
         jLabel1.setText("Game Board");
 
-        jButton1.setText("Start");
+        jButton1.setText("Reset to default");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
