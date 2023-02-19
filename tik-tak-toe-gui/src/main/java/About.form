@@ -104,7 +104,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Designed by Sithara Piyumini"/>
+            <Property name="text" type="java.lang.String" value="Designed with Jframes"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel3">
