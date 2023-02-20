@@ -15,3 +15,9 @@ git clone https://github.com/srimalonline/tic-tac-toe-java
 cd tic-tac-toe-cli
 ```
 and open the project with Netbeans
+
+## To run the GUI version of the program
+```bash
+cd tic-tac-toe-gui
+```
+and open the project with Netbeans
