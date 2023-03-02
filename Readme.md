@@ -2,7 +2,7 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
-## Installation
+## Installation Guidelines
 
 1 .Clone the repository
 ```bash
