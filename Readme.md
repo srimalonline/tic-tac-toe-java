@@ -23,4 +23,3 @@ cd tic-tac-toe-gui
 and open the project with Netbeans
 
 ### Developed with JDK 19.0.2
-##
